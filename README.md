@@ -1,2 +1,3 @@
-# chapter-nashville
-Nashville Chapter
+# WizardAmigos Nashville Chapter
+
+http://wizardamigos.com/chapter-nashville/

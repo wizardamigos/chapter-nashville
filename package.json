@@ -1,0 +1,30 @@
+{
+  "name": "chapter-nashville",
+  "version": "0.0.0",
+  "description": "wizardamigos chapter nashville",
+  "private": true,
+  "scripts": {
+    "start": "budo index.js:bundle.js --open --live --ssl",
+    "build": "browserify index.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardamigos/chapter-nashville.git"
+  },
+  "keywords": [
+    "wizardamigos",
+    "chapter",
+    "nashville"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizardamigos/chapter-nashville/issues"
+  },
+  "homepage": "https://github.com/wizardamigos/chapter-nashville#readme",
+  "devDependencies": {
+    "budo": "^11.3.2"
+  },
+  "dependencies": {
+    "chapter-page": "0.0.0"
+  }
+}
